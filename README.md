@@ -6,7 +6,7 @@
 <br>👐Открыт к интересным проектам, связаться со мной можно в [Telegram](https://t.me/aabzaev).
 <br>👷‍♂️В поисках работы, которая принесет опыта, удовольствия и денег :)
 #### 🛠 Языки и инструменты:
-Python (Pandas, Seaborn, Matplotlib, Plotly), SQL, Tableau.
+Python (Pandas, Seaborn, Matplotlib, Plotly), Jupyter, SQL, Tableau.
 <br>
 <br>
 ### Hello !👋 
@@ -19,7 +19,7 @@ With a humanitarian background and commercial experience, I am studying a new di
 
 
 #### 🛠 Languages and tools:
-Python (Pandas, Seaborn, Matplotlib, Plotly), Jypiter SQL, Tableau.
+Python (Pandas, Seaborn, Matplotlib, Plotly), Jupyter, SQL, Tableau.
 
 <!---
 Abzaev/Abzaev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
